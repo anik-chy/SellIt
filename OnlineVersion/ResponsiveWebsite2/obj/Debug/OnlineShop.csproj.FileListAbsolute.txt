@@ -1,0 +1,11 @@
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\ResponsiveWebsite2.dll
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\ResponsiveWebsite2.pdb
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\bin\MySql.Data.dll
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.dll
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.pdb
+D:\C# Code\Projects\ResponsiveWebsite2\ResponsiveWebsite2\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\anik0\Downloads\Online-Shop-Using-C-Sharp-master\ResponsiveWebsite2\bin\ResponsiveWebsite2.dll
+C:\Users\anik0\Downloads\Online-Shop-Using-C-Sharp-master\ResponsiveWebsite2\bin\ResponsiveWebsite2.pdb
+C:\Users\anik0\Downloads\Online-Shop-Using-C-Sharp-master\ResponsiveWebsite2\obj\Debug\OnlineShop.csprojResolveAssemblyReference.cache
+C:\Users\anik0\Downloads\Online-Shop-Using-C-Sharp-master\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.dll
+C:\Users\anik0\Downloads\Online-Shop-Using-C-Sharp-master\ResponsiveWebsite2\obj\Debug\ResponsiveWebsite2.pdb
