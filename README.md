@@ -28,3 +28,6 @@ From Desktop End user can log in as Admin and Cashier.
 * Microsoft Visual Studio 2010
 * Xampp (for mysql database)
 * idautomationhc39m font (available in Necessary File folder)
+
+# For Illustration
+https://youtu.be/3To6RlaQqac
